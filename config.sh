@@ -1,0 +1,20 @@
+pg_jh_config='{ "devices":[
+    { "name": "volet cuisine", "address": "F8"},
+    { "name": "volet salon ouest", "address": "F7"},
+    { "name": "volet salon est", "address": "F4"},
+    { "name": "volet salon sud", "address": "F5,F6"},
+    { "name": "volet salle d eau", "address": "F3"},
+    { "name": "volet chambre", "address": "F2"},
+    { "name": "reseau", "address": "C6"},
+    { "name": "lampe elle", "address": "C2"},
+    { "name": "lampe lui", "address": "C14"},
+    { "name": "lampe salon", "address": "C4"},
+    { "name": "SAS", "address": "C3"},
+    { "name": "chambre 2", "address": "C10"},
+    { "name": "chambre 3", "address": "C12"},
+    { "name": "entrer", "address": "C7"},
+    { "name": "entrée", "address": "C7"},
+    { "name": "mezzanine", "address": "C11"},
+    { "name": "bureau", "address": "C13"},
+    { "name": "chambre", "address": "C5"}
+]}'
