@@ -12,8 +12,6 @@ For multi-language plugin:
 ## Description
 Ce plugin utilise le logiciel de domotique heyu ( http://www.heyu.org/ ) pour communiquer avec les appareils X10 et les signaux RF.
 
-EN DÉVELOPPEMENT...
-
 ## Usage
 ```
 Français                                                                                                                                                                                                       
@@ -21,7 +19,7 @@ Français
    ```                                                                                                                                                                                                            
    Vous: allume le bar                                                                                                                                                                                            
    Jarvis: J'allume le bar...                                                                                                                                                                                     
-   # > echo "heyu on A3"                                                                                                                                                                
+   > echo "heyu on A3"                                                                                                                                                                
    ```                                                                                                                                                                                                            
     
    English
@@ -29,7 +27,7 @@ Français
    ```
    You: turn on the bar
    Jarvis: Switching on the bar...
-   # > echo "heyu on A3"
+   > echo "heyu on A3"
 
 ```
 
