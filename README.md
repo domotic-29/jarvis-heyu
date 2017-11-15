@@ -22,13 +22,12 @@ Français
    > echo "heyu on A3"                                                                                                                                                                
    ```                                                                                                                                                                                                            
     
-   English
+English
     
    ```
-   You: turn on the bar
-   Jarvis: Switching on the bar...
-   > echo "heyu on A3"
-
+   You: turn on the bar                                                                                                                                                                                            
+   Jarvis: Switching on the bar...                                                                                                                                                                                     
+   > echo "heyu on A3"                                                                                                                                                                
 ```
 
 ## Author
