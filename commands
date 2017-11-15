@@ -1,4 +1,0 @@
-*ALLUM[^ ]+ (*)==pg_jh_turn on "(1)"
-*ETEIN[^ ]+ (*)==pg_jh_turn off "(1)"
-*OUVR[^ ]+ (*)==pg_jh_turn on "(1)"
-*FERM[^ ]+ (*)==pg_jh_turn off "(1)"
